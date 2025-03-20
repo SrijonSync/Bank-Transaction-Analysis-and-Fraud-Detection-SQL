@@ -1,5 +1,3 @@
-
-
 -- create table bank
 create table bank (
     customer_id varchar(100),
